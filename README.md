@@ -8,7 +8,7 @@ This project is an **AI-based sentiment analysis web application** built using t
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Python**
 - **Flask**
@@ -19,7 +19,7 @@ This project is an **AI-based sentiment analysis web application** built using t
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Create virtual environment
